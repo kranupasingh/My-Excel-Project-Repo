@@ -1,9 +1,9 @@
-<p align="center"> # Excel Retail & Sales Data Analysis - Data Analysis Bootcamp📊
+# <p align="center"> Excel Retail & Sales Data Analysis - Data Analysis Bootcamp📊
 
 <p> This project was completed during the **Data Technician Bootcamp (Week 1: Excel)**.  
 It demonstrates practical skills in cleaning, analysing, transforming, and visualising retail and sales datasets using core Excel functions and tools.</p>
 
-<p align="center"> ## Skills Demonstrated
+ ## <p align="center"> Skills Demonstrated
 Throughout the project, I applied a wide range of Excel formulas used in real-world roles:
 
 - **Formulas & Functions**
