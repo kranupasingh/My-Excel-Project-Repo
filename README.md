@@ -98,8 +98,6 @@ These visualisations were used to explain:
 
 <img width="876" height="484" alt="image" src="https://github.com/user-attachments/assets/7f3e9f43-03f7-4bb0-8c9d-f32ba0691a23" />
 
-<img width="876" height="391" alt="image" src="https://github.com/user-attachments/assets/1fe3e22b-9b11-488c-a362-11a7a9feb6c8" />
-
 <img width="876" height="452" alt="image" src="https://github.com/user-attachments/assets/8e540f48-7738-44dd-a3c8-4d08143e8127" />
 
 <img width="876" height="452" alt="image" src="https://github.com/user-attachments/assets/61ec2bff-6001-465a-bc40-0299f506c070" />
