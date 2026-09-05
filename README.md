@@ -17,7 +17,7 @@ Throughout the project, I applied a wide range of Excel formulas used in real-wo
   - `IF`/`Nested IF` - value flagging and categorisation
   - `SWITCH` – simplify conditional logic e.g. classifying sales volumes into High, Medium, and Low categories
 
-**Below are some results of the above queries that I executed**
+<p align="center"> **Below are some results of the above queries that I executed:**
 
 <img width="876" height="159" alt="image" src="https://github.com/user-attachments/assets/656bf739-79d6-4971-8a52-8aa276431752" />
 
