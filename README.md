@@ -1,12 +1,14 @@
-# Excel Retail & Sales Data Analysis 📊
+<p align="center"> # Excel Retail & Sales Data Analysis - Data Analysis Bootcamp📊
 
-## Overview
-This project was completed during the **Data Technician Bootcamp (Week 1: Excel)**.  
-It focuses on analysing retail and sales datasets using **Excel’s advanced features** to transform raw data into meaningful insights.
+<p> This project was completed during the **Data Technician Bootcamp (Week 1: Excel)**.  
+It demonstrates practical skills in cleaning, analysing, transforming, and visualising retail and sales datasets using core Excel functions and tools.</p>
 
-## Skills Demonstrated
+<p align="center"> ## Skills Demonstrated
+Throughout the project, I applied a wide range of Excel formulas used in real-world roles:
+
 - **Formulas & Functions**
-  - `SUM`, `SUMIF` – aggregate totals with conditions
+  - `SUM` - calculating totals
+  - `SUMIF`/`SUMIFS` – aggregate totals with conditions
 
 <img width="876" height="159" alt="image" src="https://github.com/user-attachments/assets/656bf739-79d6-4971-8a52-8aa276431752" />
 
@@ -15,7 +17,7 @@ It focuses on analysing retail and sales datasets using **Excel’s advanced fea
 <img width="876" height="504" alt="image" src="https://github.com/user-attachments/assets/5631d0d7-5b54-4e31-ab5b-a58e7fd2a72c" />
 
     
-  - `AVERAGE`, `AVERAGEIF` – calculate averages with filters
+  - `AVERAGE`, `AVERAGEIF` – calculate averages or means with or without filters
 
 <img width="876" height="175" alt="image" src="https://github.com/user-attachments/assets/20408a24-f69f-4e48-8456-291970514e56" />
 
@@ -23,8 +25,8 @@ It focuses on analysing retail and sales datasets using **Excel’s advanced fea
 
 <img width="876" height="395" alt="image" src="https://github.com/user-attachments/assets/d99b1b59-48b9-40b7-8972-ab450d654c75" />
     
-  - Date functions: `DATE`, `MONTH`, `YEAR`
-  - `UNIQUE` – extract distinct values
+  - Date functions: `DATE`, `MONTH`, `YEAR` - extracting and manipulating date values
+  - `UNIQUE` – extract distinct values - 
   - `VLOOKUP` – lookup and match data across tables
   - `SWITCH` – simplify conditional logic
 
