@@ -17,21 +17,26 @@ Throughout the project, I applied a wide range of Excel formulas used in real-wo
   - `IF`/`Nested IF` - value flagging and categorisation
   - `SWITCH` – simplify conditional logic e.g. classifying sales volumes into High, Medium, and Low categories
 
-<p align="center"> **Below are some results of the above queries that I executed:**
+ **<p align="center"> Below are some results of the above queries that I executed:**
 
 <img width="876" height="159" alt="image" src="https://github.com/user-attachments/assets/656bf739-79d6-4971-8a52-8aa276431752" />
 
+
 <img width="876" height="414" alt="image" src="https://github.com/user-attachments/assets/8553fd3c-197b-448c-927d-ae19a5c92741" />
+
 
 <img width="876" height="504" alt="image" src="https://github.com/user-attachments/assets/5631d0d7-5b54-4e31-ab5b-a58e7fd2a72c" />
 
 
 <img width="876" height="175" alt="image" src="https://github.com/user-attachments/assets/20408a24-f69f-4e48-8456-291970514e56" />
 
+
 <img width="876" height="389" alt="image" src="https://github.com/user-attachments/assets/57831c22-7079-4d60-9074-4e469da21460" />
 
+
 <img width="876" height="395" alt="image" src="https://github.com/user-attachments/assets/d99b1b59-48b9-40b7-8972-ab450d654c75" />
-    
+
+---
 - **Data Cleaning and Preparation**
   - Converted raw datasets into structured Excel Tables using Ctrl + T
   - Removed hidden spaces and ensured data types were correct
@@ -39,7 +44,7 @@ Throughout the project, I applied a wide range of Excel formulas used in real-wo
   - Used filters to isolate specific age groups, product categories, and sales ranges
 
 
-**Below are some results of the above queries that I executed**
+**<p align="center"> Below are some results of the above queries that I executed:**
  <img width="876" height="134" alt="image" src="https://github.com/user-attachments/assets/b5b0f634-b9cc-49e8-85fa-edbb5bed7660" />
 
 <img width="876" height="395" alt="image" src="https://github.com/user-attachments/assets/79096f39-0a86-47af-876c-11fb5e0a2ad9" />
@@ -51,6 +56,7 @@ Throughout the project, I applied a wide range of Excel formulas used in real-wo
 <img width="876" height="179" alt="image" src="https://github.com/user-attachments/assets/787616fc-819e-4170-8ecb-d8e1e3b4aa42" />
 
 
+---
 - **PivotTables**
 I created multiple Pivot Tables to summarise:
   - Retail sales by age, product, and commission
@@ -65,7 +71,7 @@ I created multiple Pivot Tables to summarise:
 - Sorting values within Pivot Tables
 - Creating Pivot Charts for visual insights (bar charts, column charts, pie charts)
     
-**Below are some results of the above queries that I executed** 
+**<p align="center"> Below are some results of the above queries that I executed:** 
 
 <img width="876" height="267" alt="image" src="https://github.com/user-attachments/assets/65568b51-7bf2-4ea1-aa9b-13bedbfd3593" />
 
@@ -73,6 +79,7 @@ I created multiple Pivot Tables to summarise:
 <img width="876" height="389" alt="image" src="https://github.com/user-attachments/assets/57fcb1ac-251a-4cd9-9ad6-ed33cf2b66cf" />
 
 
+---
 - **Data Visualisation**
 To make insights clear for visual storytelling of sales performance and presentation-ready, I used:
   - Charts (bar, line, pie) to highlight trends
@@ -85,7 +92,7 @@ These visualisations were used to explain:
  - Product performance by region
  - Sales trends across demographics
    
-**Below are some results of the above queries that I executed** 
+**<p align="center"> Below are some results of the above queries that I executed:** 
 
 <img width="876" height="491" alt="image" src="https://github.com/user-attachments/assets/a4b131fa-9a80-4afd-8ce2-e247eabd3378" />
 
@@ -97,15 +104,18 @@ These visualisations were used to explain:
 
 <img width="876" height="452" alt="image" src="https://github.com/user-attachments/assets/61ec2bff-6001-465a-bc40-0299f506c070" />
 
+---
 ## Key Insights
 - Identified top-performing products and regions
 - Analysed monthly and yearly sales trends
 - Built dashboards to support decision-making in retail operations
 
+---
 ## Tools Used
 - Microsoft Excel (Bootcamp Week 1 focus)
 - Retail sales datasets provided during training (Student grades, Bike sales, Country product sales datasets)
 
+---
 ## Learning Outcome
 This project strengthened my ability to:
 - Use **Excel formulas** for efficient calculations
